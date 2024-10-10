@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 😀<br>A frontend developer from Ukraine 🇺🇦<br>Completed:<br>💻20+ Web applications <br>📈5 SASS applications <br>🤖3 AI applications <br><br>Full stack Development: AI SASS application Press Jockey https://pressjockey.com/<br>Frontend Development: Shopable app https://videopoint.ai/<br>Mobile Development: https://github.com/appitventures/MVDExpress-Android
 
-<div><iframe src="https://giphy.com/embed/vLlpbDafjgHystuJ0a" width="200px" height="200px" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a">
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kubik0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazar-kubyk-681681202/) 
 
