@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi 😀<br>A frontend developer from Ukraine 🇺🇦<br>Completed:<br>💻20+ Web applications <br>📈5 SASS applications <br>🤖3 AI applications <br><br>Full stack Development: AI SASS application Press Jockey https://pressjockey.com/<br>Frontend Development: Shopable app https://videopoint.ai/<br>Mobile Development: https://github.com/appitventures/MVDExpress-Android
 
-
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
+</div>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kubik0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazar-kubyk-681681202/) 
 
